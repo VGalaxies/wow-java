@@ -1,0 +1,73 @@
+000:00 red iceman 1 born
+000:00 blue lion 1 born
+Its loyalty is 5890
+000:10 red iceman 1 marched to city 1 with 27 elements and force 50
+000:10 blue lion 1 marched to city 4 with 110 elements and force 50
+000:50 5970 elements in red headquarter
+000:50 5890 elements in blue headquarter
+000:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 27 elements
+000:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 110 elements
+001:00 red lion 2 born
+Its loyalty is 5860
+001:00 blue dragon 2 born
+001:10 red lion 2 marched to city 1 with 110 elements and force 50
+001:10 red iceman 1 marched to city 2 with 25 elements and force 50
+001:10 blue lion 1 marched to city 3 with 110 elements and force 50
+001:10 blue dragon 2 marched to city 4 with 120 elements and force 50
+001:50 5860 elements in red headquarter
+001:50 5770 elements in blue headquarter
+001:55 red lion 2 has 0 sword 0 bomb 1 arrow and 110 elements
+001:55 red iceman 1 has 0 sword 1 bomb 0 arrow and 25 elements
+001:55 blue lion 1 has 0 sword 1 bomb 0 arrow and 110 elements
+001:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 120 elements
+002:00 red wolf 3 born
+002:00 blue ninja 3 born
+002:10 red wolf 3 marched to city 1 with 20 elements and force 50
+002:10 red lion 2 marched to city 2 with 110 elements and force 50
+002:10 blue lion 1 marched to city 2 with 110 elements and force 50
+002:10 red iceman 1 marched to city 3 with 23 elements and force 50
+002:10 blue dragon 2 marched to city 3 with 120 elements and force 50
+002:10 blue ninja 3 marched to city 4 with 120 elements and force 50
+002:40 both red lion 2 and blue lion 1 were alive in city 2
+002:40 blue dragon 2 killed red iceman 1 in city 3 remaining 100 elements
+002:40 blue dragon 2 yelled in city 3
+002:50 5840 elements in red headquarter
+002:50 5650 elements in blue headquarter
+002:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 20 elements
+002:55 red lion 2 has 0 sword 0 bomb 0 arrow and 90 elements
+002:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 70 elements
+002:55 blue dragon 2 has 0 sword 0 bomb 1 arrow and 100 elements
+002:55 blue ninja 3 has 1 sword 1 bomb 0 arrow and 120 elements
+003:00 red ninja 4 born
+003:00 blue iceman 4 born
+003:10 red ninja 4 marched to city 1 with 120 elements and force 50
+003:10 blue lion 1 marched to city 1 with 70 elements and force 50
+003:10 red wolf 3 marched to city 2 with 20 elements and force 50
+003:10 blue dragon 2 marched to city 2 with 100 elements and force 50
+003:10 red lion 2 marched to city 3 with 90 elements and force 50
+003:10 blue ninja 3 marched to city 3 with 120 elements and force 50
+003:10 blue iceman 4 marched to city 4 with 27 elements and force 50
+003:35 red wolf 3 took 1 arrow from blue dragon 2 in city 2
+003:40 both red ninja 4 and blue lion 1 were alive in city 1
+003:40 both red wolf 3 and blue dragon 2 were alive in city 2
+003:40 blue dragon 2 yelled in city 2
+003:40 blue ninja 3 killed red lion 2 in city 3 remaining 120 elements
+003:50 5720 elements in red headquarter
+003:50 5620 elements in blue headquarter
+003:55 red ninja 4 has 0 sword 0 bomb 0 arrow and 120 elements
+003:55 blue lion 1 has 0 sword 0 bomb 0 arrow and 20 elements
+003:55 red wolf 3 has 0 sword 0 bomb 0 arrow and 20 elements
+003:55 blue dragon 2 has 0 sword 0 bomb 0 arrow and 85 elements
+003:55 blue ninja 3 has 1 sword 0 bomb 0 arrow and 120 elements
+003:55 blue iceman 4 has 0 sword 1 bomb 0 arrow and 27 elements
+004:00 red dragon 5 born
+004:00 blue wolf 5 born
+004:10 blue lion 1 reached red headquarter with 20 elements and force 50
+004:10 red headquarter was taken
+004:10 red dragon 5 marched to city 1 with 120 elements and force 50
+004:10 blue dragon 2 marched to city 1 with 85 elements and force 50
+004:10 red ninja 4 marched to city 2 with 120 elements and force 50
+004:10 blue ninja 3 marched to city 2 with 120 elements and force 50
+004:10 red wolf 3 marched to city 3 with 20 elements and force 50
+004:10 blue iceman 4 marched to city 3 with 25 elements and force 50
+004:10 blue wolf 5 marched to city 4 with 20 elements and force 50

@@ -1,0 +1,30 @@
+000 red iceman 1 born with strength 47,1 iceman in red headquarter
+It has a bomb
+000 blue dragon 1 born with strength 332,1 dragon in blue headquarter
+It has a bomb,and it's morale is 2.01
+001 red wolf 2 born with strength 83,1 wolf in red headquarter
+001 blue ninja 2 born with strength 90,1 ninja in blue headquarter
+It has a arrow and a sword
+002 red ninja 3 born with strength 90,1 ninja in red headquarter
+It has a sword and a bomb
+002 blue iceman 3 born with strength 47,1 iceman in blue headquarter
+It has a sword
+003 red dragon 4 born with strength 332,1 dragon in red headquarter
+It has a bomb,and it's morale is 1.35
+003 blue wolf 4 born with strength 83,1 wolf in blue headquarter
+004 red iceman 5 born with strength 47,2 iceman in red headquarter
+It has a arrow
+004 blue dragon 5 born with strength 332,2 dragon in blue headquarter
+It has a arrow,and it's morale is 0.35
+005 red wolf 6 born with strength 83,2 wolf in red headquarter
+005 blue ninja 6 born with strength 90,2 ninja in blue headquarter
+It has a sword and a bomb
+006 red ninja 7 born with strength 90,2 ninja in red headquarter
+It has a bomb and a arrow
+006 blue headquarter stops making warriors
+007 red iceman 8 born with strength 47,3 iceman in red headquarter
+It has a arrow
+008 red wolf 9 born with strength 83,3 wolf in red headquarter
+009 red ninja 10 born with strength 90,3 ninja in red headquarter
+It has a bomb and a arrow
+010 red headquarter stops making warriors

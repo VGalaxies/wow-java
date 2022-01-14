@@ -1,0 +1,18 @@
+000 red iceman 1 born with strength 30,1 iceman in red headquarter
+It has a bomb
+000 blue lion 1 born with strength 40,1 lion in blue headquarter
+It's loyalty is 60
+001 red lion 2 born with strength 40,1 lion in red headquarter
+It's loyalty is 30
+001 blue dragon 2 born with strength 10,1 dragon in blue headquarter
+It has a arrow,and it's morale is 5.00
+002 red ninja 3 born with strength 20,1 ninja in red headquarter
+It has a sword and a bomb
+002 blue ninja 3 born with strength 20,1 ninja in blue headquarter
+It has a sword and a bomb
+003 red dragon 4 born with strength 10,1 dragon in red headquarter
+It has a bomb,and it's morale is 0.00
+003 blue iceman 4 born with strength 30,1 iceman in blue headquarter
+It has a bomb
+004 red headquarter stops making warriors
+004 blue headquarter stops making warriors

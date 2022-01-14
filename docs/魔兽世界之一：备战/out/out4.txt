@@ -1,0 +1,20 @@
+000 red iceman 1 born with strength 300,1 iceman in red headquarter
+000 blue lion 1 born with strength 60,1 lion in blue headquarter
+001 red lion 2 born with strength 60,1 lion in red headquarter
+001 blue dragon 2 born with strength 20,1 dragon in blue headquarter
+002 red ninja 3 born with strength 3,1 ninja in red headquarter
+002 blue ninja 3 born with strength 3,1 ninja in blue headquarter
+003 red dragon 4 born with strength 20,1 dragon in red headquarter
+003 blue iceman 4 born with strength 300,1 iceman in blue headquarter
+004 red ninja 5 born with strength 3,2 ninja in red headquarter
+004 blue ninja 5 born with strength 3,2 ninja in blue headquarter
+005 red ninja 6 born with strength 3,3 ninja in red headquarter
+005 blue ninja 6 born with strength 3,3 ninja in blue headquarter
+006 red ninja 7 born with strength 3,4 ninja in red headquarter
+006 blue ninja 7 born with strength 3,4 ninja in blue headquarter
+007 red ninja 8 born with strength 3,5 ninja in red headquarter
+007 blue ninja 8 born with strength 3,5 ninja in blue headquarter
+008 red ninja 9 born with strength 3,6 ninja in red headquarter
+008 blue ninja 9 born with strength 3,6 ninja in blue headquarter
+009 red headquarter stops making warriors
+009 blue headquarter stops making warriors
