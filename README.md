@@ -4,7 +4,7 @@
 
 # 前言
 
-魔兽世界系列练习来自[程序设计实习MOOC](http://cxsjsxmooc.openjudge.cn/)，共分为四个阶段。前三个阶段是面向所有人开放的，第四阶段是[程序设计实习](http://cxsjsx.openjudge.cn/)中的隐藏阶段。原练习要求使用`C++`编写，为了调试方便和简化代码逻辑，将其改编为`Java`版本。
+魔兽世界系列练习来自[程序设计实习 MOOC](http://cxsjsxmooc.openjudge.cn/)，共分为四个阶段。前三个阶段是面向所有人开放的，第四阶段是[程序设计实习](http://cxsjsx.openjudge.cn/)中的隐藏阶段。原练习要求使用 `C++` 编写，为了调试方便和简化代码逻辑，将其改编为 `Java` 版本。
 
 
 
@@ -51,7 +51,7 @@ with open(oriInFile, 'r') as inFile, open(oriOutFile, 'r') as outFile:
 
 
 
-## 搭建[JUnit](https://junit.org/junit5/)框架
+## 搭建 [JUnit](https://junit.org/junit5/) 框架
 
 这里模仿平时作业助教的写法
 
@@ -146,20 +146,20 @@ public class WOW1Test {
 
 ## 思路
 
-测试类调用`Demo`类的`main`方法，`main`方法读取输入信息后，创建一个`Event`类，并调用`Event`类的`start`方法。
+测试类调用 `Demo` 类的 `main` 方法，`main` 方法读取输入信息后，创建一个 `Event` 类，并调用 `Event` 类的 `start` 方法。
 
-`Event`类中拥有红司令部和蓝司令部字段，司令部类`Headquarter`中拥有一个武士的集合字段，武士类`Warrior`是抽象类，共有五种武士。武士类中拥有一个武器的集合字段，武器类`Weapon`也是抽象类，共有三种武器。
+`Event` 类中拥有红司令部和蓝司令部字段，司令部类 `Headquarter` 中拥有一个武士的集合字段，武士类 `Warrior` 是抽象类，共有五种武士。武士类中拥有一个武器的集合字段，武器类 `Weapon` 也是抽象类，共有三种武器。
 
 
 
 ## 细节
 
 - 为了满足题目要求，我们需要在武士类和武器类中实现一些不同的比较器
-- 逻辑上较为复杂的方法是武士的`attack`方法，使用多个辅助函数将其分解
+- 逻辑上较为复杂的方法是武士的 `attack` 方法，使用多个辅助函数将其分解
 - 需要注意武士在获得他人的武器时需要修改武器的所有者
-- 为了实现一边遍历集合一边删除集合中的对象，我们需要使用`Iterator`类的`remove()`方法，否则会触发异常`ConcurrentModificationException`
+- 为了实现一边遍历集合一边删除集合中的对象，我们需要使用 `Iterator` 类的 `remove()` 方法，否则会触发异常 `ConcurrentModificationException`
 - 对于战斗中武士状态不再变化的判断，实现中使用惰性判断，战斗次数超过某个值即判定平局
-- 抽象类`Warrior`和`Weapon`各有一个`switchTable`方法，进行显式分派
+- 抽象类 `Warrior` 和 `Weapon` 各有一个 `switchTable` 方法，进行显式分派
 
 
 
